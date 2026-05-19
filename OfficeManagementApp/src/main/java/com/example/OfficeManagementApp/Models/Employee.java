@@ -1,4 +1,4 @@
-package com.example.OfficeManagementApp;
+package com.example.OfficeManagementApp.Models;
 
 public class Employee {
     private int empId;
